@@ -8,7 +8,7 @@ Javascript-Quiz-Board
 
 ## description of project
 
-This is my Quiz-board-projecT This Javascript quiz which contain Ten questions. please chose one question before doing the next. the each question has 2 point BUT IT WILL BE DIPLAYED IN PERCENTAGE.
+This is my Quiz-board-projecT This Javascript quiz which contain Ten questions. please chose one question before doing the next. the each question has 2 point BUT IT WILL BE DIPLAYED IN PERCENTAGE. to access it on website click here https://iyerikuzwe.github.io/QUIZ-BOARD-PROJECT/ on GITHUB click here https://github.com/iyerikuzwe/QUIZ-BOARD-PROJECT
 
 ## copyright
 
