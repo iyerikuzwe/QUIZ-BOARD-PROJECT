@@ -1,0 +1,50 @@
+h1 {
+    color: inherit;
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    color:blue;
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center;
+  }
+  body{
+    background-color: darkcyan;
+  }
+ 
+ .container{
+   width: 60%;
+   background: #aae;
+   margin: 20px auto;
+   overflow: auto;
+   padding: 25px;
+   border-radius: 70px;
+ }
+ 
+ .question{
+   color: black;
+   font-size: 17px;
+   font-style: oblique;
+   font-weight: bold;
+ }
+ 
+ .well{
+   background-color:white;
+ }
+ #userScore{
+   font-size: 30px;
+   font-style: italic;
+   font-weight: bold;
+   color: white;
+ }
+ #results{
+    width: 60%;
+    background: #aae;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 25px;
+    border-radius: 70px;
+  }
