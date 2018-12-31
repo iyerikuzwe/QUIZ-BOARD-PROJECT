@@ -8,11 +8,15 @@ Javascript-Quiz-Board
 
 ## description of project
 
+This is my Quiz-board-projecT This Javascript quiz which contain Ten questions. please chose one question before doing the next. the each question has 2 point BUT IT WILL BE DIPLAYED IN PERCENTAGE.
+
 ## copyright
+
 Copyright (c) [2018] [Iyerikuzwe Regine]
 License
 This software iyerikuzwe/Quiz-board is licensed under the MIT license.
-##Acknowledgement
+
+## Acknowledgement
 
 1. I would like to express my deepest appreciation to moringa school who provided me the possibility to complete this project.
 2.  A special gratitude I give to my mentors,  whose contribution in stimulating suggestions and encouragement,  helped me to coordinate my project.
