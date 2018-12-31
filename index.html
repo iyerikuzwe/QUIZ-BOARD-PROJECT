@@ -1,110 +1,17 @@
-<!DOCTYPE >
+<!DOCTYPE HTML>
 <html>
       <head>
-            <title>JAVASCRIPT QUIZ</title>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <meta http-equiv="X-UA-Compatible" content="ie=edge">
-            <link href="bootstrap.css" rel="stylesheet" type="text/css">
-            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-            <link rel="stylesheet" type="text/css" href="style.css">
-            <script src="jquery-3.3.1.js"></script>
-            <script src="scripts.js"></script>
-      </head>
-       <body>
-            <div class="container">
-              <form id="Quiz" method="POST" name="Quiz">
-                 <div class="jumbotron">
-                      <div class="panel panel-info">
-                           <h1>JAVASCRIPT QUIZ</h1>
-                 </div>
-                              <div class="well">
-                                     <p><em> 1.When does JavaScript code appear inline within an HTML file?</em></p>
-                                   <br>
-                                     <input type="radio" name="questionOne" id="q1" value="correct">Between the “script” tag<br>
-                                     <input type="radio" name="questionOne" id="q1" value="wrong">Outside the “script” tag<br>
-                                     <input type="radio" name="questionOne" id="q1" value="wrong">Between the “script” tag<br>
-                                     <input type="radio" name="questionOne" id="q1" value="wrong">None of the mentioned<br>
-                             </div>
-                              <div class="well">
-                                  <p><em>2.What will be done if more than one page requires a file of JavaScript code?</em></p>
-                                  <br>
-                                  <input type="radio" name="questionTwo" id="q2" value="wrong">Downloads that many times<br>
-                                  <input type="radio" name="questionTwo" id="q2" value="correct">Retrives from the browser cache<br>
-                                  <input type="radio" name="questionTwo" id="q2" value="wrong">Must be reexecuted<br>
-                                  <input type="radio" name="questionTwo" id="q2" value="wrong">None of the mentioned<br>
-                              </div>
-                               <div class="well">
-                                    <p><em> 3.Which object is the main entry point to all client-side JavaScript features and APIs?</em></p>
-                                    <br>
-                                    <input type="radio" name="questionThree" id="q3" value="wrong">Standard<br>
-                                    <input type="radio" name="questionThree" id="q3" value="wrong">Window<br>
-                                    <input type="radio" name="questionThree" id="q3" value="correct">Position<br>
-                                    <input type="radio" name="questionThree" id="q3" value="wrong">Location<br>
-                               </div>
-                                <div class="well">
-                                    <p><em>4.Which built-in method returns the characters in a string beginning at the specified location?</em></p>
-                                    <br>
-                                    <input type="radio" name="questionFour" id="q4" value="wrong">To use an object as its namespace<br>
-                                    <input type="radio" name="questionFour" id="q4" value="wrong">To use an object that has the reference to all the variables<br>
-                                    <input type="radio" name="questionFour" id="q4" value="wrong">To use global functions<br>
-                                    <input type="radio" name="questionFour" id="q4" value="correct">To use a method that defines all the variables<br>
-                                </div>
-                                 <div class="well">
-                                      <p><em>5. The behaviour of the instances present of a class inside a method is defined by</em></p>
-                                      <br>
-                                      <input type="radio" name="questionFive" id="q5" value="wrong">Method<br>
-                                      <input type="radio" name="questionFive" id="q5" value="correct">Classes<br>
-                                      <input type="radio" name="questionFive" id="q5" value="wrong">Interfaces<br>
-                                      <input type="radio" name="questionFive" id="q5" value="wrong">Classes and Interfaces<br>
-                                 </div>
-                                  <div class="well">
-                                       <p><em> 6. The basic difference between JavaScript and Java is</em></p>
-                                       <br>
-                                       <input type="radio" name="questionSix" id="q6" value="wrong">There is no difference<br>
-                                       <input type="radio" name="questionSix" id="q6" value="wrong">Variables are specific<br>
-                                       <input type="radio" name="questionSix" id="q6" value="correct">between methods<br>
-                                       <input type="radio" name="questionSix" id="q6" value="wrong">Functions are considered as fields<br>
-                                       
-                                  </div>
-                                   <div class="well">
-                                        <p><em>7. The keyword or the property that you use to refer to an object through which they were invoked is</em></p>
-                                        <br>
-                                        <input type="radio" name="questionSeven" id="q7" value="wrong">this<br>
-                                        <input type="radio" name="questionSeven" id="q7" value="wrong">from<br>
-                                        <input type="radio" name="questionSeven" id="q7" value="wrong">to<br> 
-                                        <input type="radio" name="questionSeven" id="q7" value="correct">object<br>    
-                                   </div>
-                                    <div class="well">
-                                         <p><em>8. What is the default value of the type attribute?</em></p>
-                                         <br>
-                                         <input type="radio" name="questionEight" id="q8" value="wrong">text/css<br>
-                                         <input type="radio" name="questionEight" id="q8" value="correct">text/javascript<br>
-                                         <input type="radio" name="questionEight" id="q8" value="wrong">text<br>
-                                         <input type="radio" name="questionEight" id="q8" value="wrong">xml<br>     
-                                    </div>
-                                     <div class="well">
-                                          <p><em>9.  How many default number methods are available in JavaScript?</em></p>
-                                          <br>
-                                          <input type="radio" name="questionNine" id="q9" value="correct">5<br>
-                                          <input type="radio" name="questionNine" id="q9" value="wrong">6<br>
-                                          <input type="radio" name="questionNine" id="q9" value="wrong">7<br> 
-                                          <input type="radio" name="questionNine" id="q9" value="wrong">8<br>    
-                                     </div>
-                                      <div class="well">
-                                           <p><em> 10. Which of the following attribute of form tag is not set by using document object in JavaScript?</em></p>
-                                           <br>
-                                           <input type="radio" name="questionTen" id="q10" value="wrong">Enctype<br>
-                                           <input type="radio" name="questionTen" id="q10" value="wrong">Enctype<br>
-                                           <input type="radio" name="questionTen" id="q10" value="correct">Action<br>
-                                           <input type="radio" name="questionTen" id="q10" value="wrong">None of the mentioned<br>     
-                                      </div>
-                                </div>
-                                           <input type="button" name="results" value="SUBMIT" id="button" class="btn btn-danger" onClick="check();">
-              </form>
-         </div>
-              <div id="fifth-p">
-                   <p id="correctNumber">GET RESULT:</p>
-              </div>
-       </body>
-<html> 
+        <title> Javascript-Quiz-Board</title>
+        <meta charset="utf-8">
+        <link href="bootstrap.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script   src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>
+        <script src="scripts.js"></script>
+        </head>
+        <body>
+    <div id="welcome">
+    	<p>This is a Javascript quiz which contain Ten questions. please chose one question before doing the next. the each question has 2 point</p>
+        <p> click here to start the quiz. <em> All the best and Good-Luck </em> <a href="javascript-quiz.html"> Click here to start Quiz</a></p>
+        </body>
+    </div>
+</html>
