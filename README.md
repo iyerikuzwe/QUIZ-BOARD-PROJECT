@@ -23,7 +23,7 @@
         https://iyerikuzwe.github.io/QUIZ-BOARD-PROJECT/
 
 ## Behaviour Driven Development
-        When one has not put in any input, the results page will show you a score of zero out of ten.
+        When one has not put in any input, the results page will show you a score of zero out of hundred.
         Input Example:no Input Output Example:Total score is 0/100. The program should return this when the input'swrong answer is checked: Input Example:wrong answer Output Example:Total score is 0/100 The program should return this when the correct answer is checked: Input Example: right answer Output Example:Total score is 100/100 The program should return the correct answer if you fail: Input Example:wrong answer Output Example:right answer
 
 ## technologies used
