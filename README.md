@@ -1,6 +1,6 @@
 # Author's Name
 
-## Regine Iyerikuzwe
+ Regine Iyerikuzwe
 
 # project or program name
 
