@@ -2,7 +2,7 @@
      Regine Iyerikuzwe
 
 ## project or program name
-     Javascript Quiz-Board
+     QUIZ-BOARD-PROJECT
 
 ### description of project
         This is a simple online quiz which contains questions pertaining to JavaScript. Each question had four multiple answers which allows the user to select only one answer per question. At the end of the quiz after all your input has been collected your score is displayed on a new page called the results page.
