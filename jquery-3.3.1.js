@@ -54,7 +54,7 @@
 
     <meta name="google-analytics" content="UA-3769691-2">
 
-  <meta class="js-ga-set" name="userId" content="6709735b71777f9ad0b1f021611c794c" %>
+  <meta class="js-ga-set" name="userId" content="6709735b71777f9ad0b1f021611c794c">
 
 <meta class="js-ga-set" name="dimension1" content="Logged In">
 
