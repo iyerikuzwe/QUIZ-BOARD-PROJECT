@@ -494,7 +494,7 @@
         </details-menu>
       </details>
       <a class="social-count js-social-count"
-        href="/CarineIzere/QUIZ-BOARD-PROJECT/watchers"
+        href="/iyerikuzwe/QUIZ-BOARD-PROJECT/watchers"
         aria-label="0 users are watching this repository">
         0
       </a>
@@ -503,12 +503,12 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/CarineIzere/QUIZ-BOARD-PROJECT/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="N16A8yp6A8wEJKAANBAJjwzpsO/6N1MnqU4zlFZ+y0tOvuDAtgzi76ANvvG3zMjKOCCuEXJINggwZUFRVdQ2EA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/iyerikuzwe/QUIZ-BOARD-PROJECT/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="N16A8yp6A8wEJKAANBAJjwzpsO/6N1MnqU4zlFZ+y0tOvuDAtgzi76ANvvG3zMjKOCCuEXJINggwZUFRVdQ2EA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar CarineIzere/QUIZ-BOARD-PROJECT"
+        aria-label="Unstar this repository" title="Unstar iyerikuzwe/QUIZ-BOARD-PROJECT"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
@@ -523,12 +523,12 @@
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star CarineIzere/QUIZ-BOARD-PROJECT"
+        aria-label="Star this repository" title="Star iyerikuzwe/QUIZ-BOARD-PROJECT"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/CarineIzere/QUIZ-BOARD-PROJECT/stargazers"
+        <a class="social-count js-social-count" href="/iyerikuzwe/QUIZ-BOARD-PROJECT/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -541,7 +541,7 @@
           <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
           Fork
 </span>
-    <a href="/CarineIzere/QUIZ-BOARD-PROJECT/network/members" class="social-count"
+    <a href="/iyerikuzwe/QUIZ-BOARD-PROJECT/network/members" class="social-count"
        aria-label="0 users forked this repository">
       0
     </a>
@@ -552,7 +552,7 @@
   <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
   <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=45596468" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CarineIzere">CarineIzere</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/CarineIzere/QUIZ-BOARD-PROJECT">QUIZ-BOARD-PROJECT</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/iyerikuzwe/QUIZ-BOARD-PROJECT">QUIZ-BOARD-PROJECT</a></strong>
 
 </h1>
 
@@ -620,7 +620,7 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CarineIzere/QUIZ-BOARD-PROJECT/blob/6ed1c67370e0930128eee2ee95bb8e935e94f505/js/jquery-3.3.1.js">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/iyerikuzwe/QUIZ-BOARD-PROJECT/blob/6ed1c67370e0930128eee2ee95bb8e935e94f505/js/jquery-3.3.1.js">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:7017b95766ea6f3f402b3ce4d307c66b -->
 
@@ -675,7 +675,7 @@
         </span>
       </a>
       <a class="select-menu-item js-navigation-item js-navigation-open selected"
-         href="/CarineIzere/QUIZ-BOARD-PROJECT/blob/master/js/jquery-3.3.1.js"
+         href="/iyerikuzwe/QUIZ-BOARD-PROJECT/blob/master/js/jquery-3.3.1.js"
          data-name="master"
          data-skip-pjax="true"
          rel="nofollow">
@@ -715,7 +715,7 @@
 </div>
 
       <div class="BtnGroup float-right">
-        <a href="/CarineIzere/QUIZ-BOARD-PROJECT/find/master"
+        <a href="/iyerikuzwe/QUIZ-BOARD-PROJECT/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -734,7 +734,7 @@
     
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/CarineIzere/QUIZ-BOARD-PROJECT/commit/dbf3beb2e70c28772a5309970efa4c05cbf2c76a" data-pjax>
+        <a class="commit-tease-sha" href="/iyerikuzwe/QUIZ-BOARD-PROJECT/commit/dbf3beb2e70c28772a5309970efa4c05cbf2c76a" data-pjax>
           dbf3beb
         </a>
         <relative-time datetime="2018-12-21T09:19:05Z">Dec 21, 2018</relative-time>
@@ -762,9 +762,9 @@
     
         <ul class="list-style-none overflow-auto">
             <li class="Box-row">
-              <a class="link-gray-dark no-underline" href="/CarineIzere">
+              <a class="link-gray-dark no-underline" href="/iyerikuzwe">
                 <img class="avatar mr-2" alt="" src="https://avatars2.githubusercontent.com/u/45596468?s=40&amp;v=4" width="20" height="20" />
-                CarineIzere
+                iyerikuzwe
 </a>            </li>
         </ul>
 
@@ -784,9 +784,9 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/CarineIzere/QUIZ-BOARD-PROJECT/raw/master/js/jquery-3.3.1.js">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/CarineIzere/QUIZ-BOARD-PROJECT/blame/master/js/jquery-3.3.1.js">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/CarineIzere/QUIZ-BOARD-PROJECT/commits/master/js/jquery-3.3.1.js">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/iyerikuzwe/QUIZ-BOARD-PROJECT/raw/master/js/jquery-3.3.1.js">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/iyerikuzwe/QUIZ-BOARD-PROJECT/blame/master/js/jquery-3.3.1.js">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/iyerikuzwe/QUIZ-BOARD-PROJECT/commits/master/js/jquery-3.3.1.js">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
