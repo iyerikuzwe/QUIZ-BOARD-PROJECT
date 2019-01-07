@@ -342,9 +342,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="CarineIzere/QUIZ-BOARD-PROJECT">This repository</span>
+    <span title="iyerikuzwe/QUIZ-BOARD-PROJECT">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/CarineIzere/QUIZ-BOARD-PROJECT/issues/new" data-ga-click="Header, create new issue">
+    <a role="menuitem" class="dropdown-item" href="/iyerikuzwe/QUIZ-BOARD-PROJECT/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -359,7 +359,7 @@
       <summary class="HeaderNavlink name mt-1"
         aria-label="View profile and more"
         data-ga-click="Header, show menu, icon:avatar">
-        <img alt="@CarineIzere" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/45596468?s=40&amp;v=4" height="20" width="20">
+        <img alt="@iyerikuzwe" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/45596468?s=40&amp;v=4" height="20" width="20">
         <span class="dropdown-caret"></span>
       </summary>
       <details-menu class="dropdown-menu dropdown-menu-sw">
@@ -368,11 +368,11 @@
           <li class="dropdown-divider"></li>
 
 
-          <li><a role="menuitem" class="dropdown-item" href="/CarineIzere" data-ga-click="Header, go to profile, text:your profile">Your profile</a></li>
-          <li><a role="menuitem" class="dropdown-item" href="/CarineIzere?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories">Your repositories</a></li>
+          <li><a role="menuitem" class="dropdown-item" href="/iyerikuzwe" data-ga-click="Header, go to profile, text:your profile">Your profile</a></li>
+          <li><a role="menuitem" class="dropdown-item" href="/iyerikuzwe?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories">Your repositories</a></li>
 
 
-          <li><a role="menuitem" class="dropdown-item" href="/CarineIzere?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">Your stars</a></li>
+          <li><a role="menuitem" class="dropdown-item" href="/iyerikuzwe?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">Your stars</a></li>
             <li><a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a></li>
           <li class="dropdown-divider"></li>
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
