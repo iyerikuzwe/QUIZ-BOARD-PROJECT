@@ -78,7 +78,7 @@
 
   <meta name="go-import" content="github.com/iyerikuzwe/QUIZ-BOARD-PROJECT git https://github.com/CarineIzere/QUIZ-BOARD-PROJECT.git">
 
-  <meta name="octolytics-dimension-user_id" content="45596468" /><meta name="octolytics-dimension-user_login" content="CarineIzere" /><meta name="octolytics-dimension-repository_id" content="162687688" /><meta name="octolytics-dimension-repository_nwo" content="iyerikuzwe/QUIZ-BOARD-PROJECT" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="162687688" /><meta name="octolytics-dimension-repository_network_root_nwo" content="iyerikuzwe/QUIZ-BOARD-PROJECT" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="45596468" /><meta name="octolytics-dimension-user_login" content="iyerikuzwe" /><meta name="octolytics-dimension-repository_id" content="162687688" /><meta name="octolytics-dimension-repository_nwo" content="iyerikuzwe/QUIZ-BOARD-PROJECT" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="162687688" /><meta name="octolytics-dimension-repository_network_root_nwo" content="iyerikuzwe/QUIZ-BOARD-PROJECT" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
     <link rel="canonical" href="https://github.com/iyerikuzwe/QUIZ-BOARD-PROJECT/blob/master/js/jquery-3.3.1.js" data-pjax-transient>
